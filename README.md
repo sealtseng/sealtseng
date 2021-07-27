@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sealtseng
-- 👀 I’m a UIUX Design who currently learning some front-end programing.
+- 👋 Hi, I’m @sealtseng, a UIUX Design who currently learning some front-end programing.
 
 
 <!---
